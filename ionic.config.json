@@ -1,0 +1,7 @@
+{
+  "name": "housy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
